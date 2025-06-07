@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: 'Bapai Das'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jul 08 2023'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
